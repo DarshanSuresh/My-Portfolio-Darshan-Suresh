@@ -261,298 +261,153 @@ export const skills = [
 ];
 
 export const experiences = [
-
-    {
+  {
     id: 0,
-    img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
-    role: "Power programmer (Java Full Stack Developer)",
-    company: "infosys Limited",
-    date: "April 2023 - Present",
-    desc: "Working on the Burlington Northern Santa Fe (BNSF Railways)",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR39jDMNbQnSpyIg6bEa-drFrKkWLUgwy8fvg&s",
+    role: "Data Analyst Intern",
+    company: "The Farming Budha",
+    date: "Oct 2023 - Present",
+    desc: "Currently working as a Data Analyst Intern at The Farming Budha. Analyzing agricultural data, visualizing trends, and providing insights to improve operational efficiency.",
     skills: [
-      "Java",
-      "Spring boot",
-      "Microservice",
-      "Docker",
-      "Apache Camel",
-      "Apache Kafka",
-      "Angular Js",
-      "CI/CD Jenkins",
-      "Junit",
-      "Dbeaver"
+      "Data Analysis",
+      "Excel",
+      "Python",
+      "SQL",
+      "Data Visualization",
+      "Pandas",
+      "Matplotlib"
     ],
   },
   {
     id: 1,
-    img: "https://static.vecteezy.com/system/resources/previews/020/190/469/original/infosys-logo-infosys-icon-free-free-vector.jpg",
-    role: "Specialist programmer (Java Back-End Developer)",
-    company: "Infosys Limited",
-    date: "July 2022 - March 2023",
-    desc: "Worked on Royal Bank Of Canada (RBC Bank)",
+    img: "https://media.licdn.com/dms/image/v2/C560BAQG6BSo6-LKsyQ/company-logo_200_200/company-logo_200_200/0/1679772461239?e=2147483647&v=beta&t=2qQM4SInb2VrhyTCgq669MCE6S_dg6sknySj06U9X1k",
+    role: "Data Analyst Intern",
+    company: "Next24tech Technology & Services",
+    date: "May 2024 - July 2024",
+    desc: "Completed an internship at Next24tech, working on analyzing business data, creating reports, and supporting the team in data-driven decision-making.",
     skills: [
-      "Java",
-      "Spring boot",
-      "Microservice",
-      "Docker",
-      "Apache Camel",
-      "Apache Kafka",
-      "Angular Js",
-      "CI/CD Jenkins",
-      "Junit",
-
+      "Data Analysis",
+      "Excel",
+      "Python",
+      "SQL",
+      "Power BI",
+      "Machine Learning"
     ],
-  
-  },
-
-  {
-    id: 2,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQGc7lKmF0Lpeg/company-logo_200_200/company-logo_200_200/0/1714811764518/letsconnectindia_logo?e=2147483647&v=beta&t=jX6GuoD4IFHav838QW7HjI4r8OBFv9aDFJLLoPQw_8k",
-    role: "Java backend Developer",
-    company: "LetsConnectIndia.com (6 Months Internship)",
-    date: "July 2021 - Dec 2021",
-    desc: "A results-driven Java Backend Developer with hands-on experience in building scalable, high-performance applications using Spring Boot and Hibernate. Proficient in optimizing APIs and microservices, enhancing system efficiency by up to 30%. Skilled in collaborating with cross-functional teams to deliver reliable solutions and resolve critical backend issues swiftly.",
-    skills: [
-      "Java",
-      "Spring Framework",
-      "Microservice",
-      "Docker",
-      "Apache Camel",
-      "Angular Js",
-      "Junit",
-    ],
-  },
-
-  {
-    id: 3,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMFfnN6owFBveI0QvzutR-6AuTLCvzCgVEo__G25fIA&s",
-    role: "Java backend Developer",
-    company: "SUVEN CONSULTANTS AND TECHNOLOGY (6 Months Internship)",
-    date: "Jan 2022 - June 2022",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the internship.",
-    skills: [
-      "Java",
-      "Spring Framework",
-      "Microservice",
-      "Docker",
-      "Apache Camel",
-      "React Js",
-      "Junit",
-      "Apache Kafka & Camel"
-    ],
-  },
-
-  {
-    id: 4,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADlmdpwvwazAsMWIgPTKhn7LlgfkmvDr03KvetGuK2Q&s",
-    role: "Mentor",
-    company: "Topmate.io",
-    date: "Aug 2023 - Present",
-    desc: "Top 1% At this Platfome, Guided over 300+ individuals in DSA, coding, and development, with numbers continuously increasing",
-    skills: [
-      "Career Guidance",
-      "DSA Start From Scratch",
-      "Development Start From Scratch",
-      "Linkedin Review",
-      "Resume Review etc",
-      "Many More"
-
-    ],
-  
-  },
-  
+  }
 ];
 
-export const education = [
 
+
+export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQGVF2qj__3qtg/company-logo_400_400/0/1646318126580?e=2147483647&v=beta&t=m_pWngulU4pmV7TEjPVS2V6BCiKactu8PRf0FGQoWwk",
-    school: "Oriental College Of technology Bhopal",
-    date: "May 2018 - May 2022",
-    desc: "I have done my graducation in Bachelor's degree in Electronic and Communication Engineering at Oriental College Of technology, Bhopal. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
-    degree: "Bachelor of Technology - BTech, Electronic And Communication Engineering",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6sf9a3WbyOSng62JQWaGPQQWuUYySgH7MQ&s", 
+    school: "Amrita Vishwa Vidyapeetham, Mysuru",
+    date: "Expected Graduation: 2025",
+    desc: "Pursuing Bachelor's degree in Computer Applications (BCA) with a focus on Data Science and Artificial Intelligence. Courses include Data Structures, Algorithms, Machine Learning, Cloud Computing, and more.",
+    degree: "Bachelor of Computer Applications (BCA) Data Science",
   },
-
   {
     id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KtCz4kQ5SEhlbeDe2DO8AuOxdyrW1UmrZKzsnwEfZcmcV0QNJsX2I82DZcfC_Oq_cow&usqp=CAU",
-    school: "Gyan Ganga Internation School Jabalpur",
-    date: "Apr 2017 - Mar 2018",
-    desc: "I completed my class 12 high school education at Gyan Ganga Internation School, Jabalpur, where I studied Science with Computer Science.",
-    degree: "CBSC(XII), Science with Computer",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTljO_5264Przw-hGzT--SWp84SIRXkQLOP3g&s", 
+    school: "Marimallapa Pre-University College, Mysuru",
+    date: "Mar 2022",
+    desc: "Completed class 12 education with a focus on Science and Computer Science.",
+    degree: "STATE (PUC), PCMB",
   },
-
   {
     id: 2,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KtCz4kQ5SEhlbeDe2DO8AuOxdyrW1UmrZKzsnwEfZcmcV0QNJsX2I82DZcfC_Oq_cow&usqp=CAU",
-    school: "Gyan Ganga Internation School Jabalpur",
-    date: "Apr 2015 - Mar 2016",
-    desc: "I completed my class 10 education at Gyan Ganga Internation School, Jabalpur, where I studied Science with Computer Application.",
-    degree: "CBSC(X), Science with Computer",
+    img: "https://sadvidya.in/images/lo.jpeg", 
+    school: "Sadvidya High College, Mysuru",
+    date: "Apr 2020",
+    desc: "Completed class 10 education woth a focus on Science and Computer Science.",
+    degree: "State (X)",
   },
-
-
-  
 ];
 
 export const projects = [
   {
-    id: 9,
-    title: "Bank Of Bharat (BOB)",
-    date: "Jun 2023 - Aug 2023",
-    description:
-      "implemented all the functionalities that a typical bank application has in the backend.",
-    image:
-      "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/10/16/Photos/Incoming/IndusInd-kTRG--621x414@LiveMint.jpg",
-    tags: [
-      "Spring Boot",
-      "Spring MVC",
-      "Hibernate",
-      "Spring Cloud",
-      "Spring Data",
-      "CI/CD",
-      "Apache Camel",
-      "MongoDb",
-      "Msql",
-      "Microservices",
-    ],
-    category: "web app",
-    github: "https://github.com/HimanshuSingour/Bank-Of-Bharat-BOB",
-  },
-  {
-    id: 0,
-    title: "AlgorithmXlr8",
-    date: "Apr 2023 - May 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://i.ibb.co/NZY49cJ/SCR-20240511-bpyw.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-   
-  },
-  {
     id: 1,
-    title: "UPI Payment Application",
-    date: "Oct 2022 - Present",
-    description:
-      "UPI payment backend, built on Spring Boot and Microservices, integrates design patterns for streamlined operations and security.",
-    image:
-      "https://assets-global.website-files.com/63abfe1dce1c7d5156ec0d56/64b7bc80ca5573c38df66efb_upi_apps_thumbnail.webp",
-    tags: [
-      "Spring Framework",
-      "Micorservice Arcticture",
-      "Design Patterns",
-      "Apache Kafka",
-      "Apache Camel",
-    ],
-
-    github: "https://github.com/HimanshuSingour/UPI-Payment-Application",
-
+    title: "AI-Powered-Detection-of-Phishing-URLs",
+    date: "Updated on Feb 4",
+    description: "Detects phishing URLs using machine learning models, aimed at improving online security.",
+    image: "https://cdn.activestate.com/wp-content/uploads/2021/02/phishing-detection-with-Python.jpg", 
+    tags: ["Machine Learning", "Data Science", "Python", "Phishing Detection"],
+    category: "Data Science",
+    github: "https://github.com/DarshanSuresh/AI-Powered-Detection-of-Phishing-URLs",
   },
   {
     id: 2,
-    title: "RailWay Application",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Made a railway app like India's own, with all the features you'd expect. Book tickets, check schedules, and travel hassle-free",
-    image:
-      "https://user-images.githubusercontent.com/85048574/164957242-6b476520-dbff-4419-a825-e054e6caf26c.png",
-      tags: [
-        "Spring Framework",
-        "Micorservice Arcticture",
-        "Design Patterns",
-        "Apache Kafka",
-        "Apache Camel",
-      ],
-    github: "https://github.com/HimanshuSingour/India-RailwayWise-Your-Journey-Our-Management",
-
-    
+    title: "Social-Media-Sentiment-Analysis",
+    date: "Updated on Feb 3",
+    description: "Analyzes sentiment on social media platforms using NLP techniques.",
+    image: "https://www.bombaysoftwares.com/_next/image?url=https%3A%2F%2Fbs-cms-media-prod.s3.ap-south-1.amazonaws.com%2Fsocial_media_sentiment_analysis_b134df5b40.jpg&w=1200&q=75", 
+    tags: ["NLP", "Sentiment Analysis", "Python", "Text Analytics"],
+    category: "Data Science",
+    github: "https://github.com/DarshanSuresh/Social-Media-Sentiment-Analysis",
   },
   {
     id: 3,
-    title: "InfyGo Flight Booking System",
-    date: "Dec 2021 - Apr 2022",
-    description:
-      "Built a flight booking app for easy travel planning. Book seats, check flights – all in one place",
-    image:
-      "https://i.ytimg.com/vi/dtTkuy_Jpy8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAYoyggQWDAHKy9vbwvcR2yQOdgOQ",
-      tags: [
-        "Spring Framework",
-        "Micorservice Arcticture",
-        "Design Patterns",
-        "Apache Kafka",
-        "Apache Camel",
-        "Mysql",
-        "MongosDb"
-      ],
-
-    github: "https://github.com/HimanshuSingour/Flight-Booking-Application-",
-
+    title: "E-commerce-Product-Recommendation-System",
+    date: "Updated on Jan 26",
+    description: "Builds a recommendation system to suggest products to users based on their preferences.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29M1akfZPGLoj81lur4igM5Fz_Sl2fsVaVg&s", 
+    tags: ["Recommendation Systems", "Machine Learning", "Data Science", "Python"],
+    category: "Data Science",
+    github: "https://github.com/DarshanSuresh/E-commerce-Product-Recommendation-System",
   },
   {
-    id: 10,
-    title: "Movie Mate",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "Meet Movi Mate: Your go-to for movies. Find, book, and enjoy your favorite films effortlessly.",
-    image:
-      "https://miro.medium.com/v2/resize:fit:1200/1*YikEKg0FVtYuSHSKws7SKg.png",
-      tags: [
-        "Spring Framework",
-        "Micorservice Arcticture",
-        "Design Patterns",
-        "Apache Kafka",
-        "Apache Camel",
-      ],
-
-    github: "https://github.com/HimanshuSingour/MovieMate",
-
+    id: 4,
+    title: "House-Price-Prediction-System-Using-Data-Analytics-Algorithms",
+    date: "Updated on Jan 25",
+    description: "Predicts house prices using regression algorithms and various input features.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaJY65ki0oZWOlYCSW8XWYibONr323DyT3Zw&s", 
+    tags: ["Regression", "Data Analytics", "Machine Learning", "Python"],
+    category: "Data Science",
+    github: "https://github.com/DarshanSuresh/House-Price-Prediction-System-Using-Data-Analytics-Algorithms",
   },
-
   {
     id: 5,
-    title: "Hotel Management",
-    date: "Jun 2021",
-    description:
-      " Meet our Hotel Management System: It handles everything from bookings to checkouts. Easily manage reservations, room assignments, and guest services, making hotel operations smooth as silk.",
-    image:
-      "https://i.ytimg.com/vi/FCCVSvrJLmo/maxresdefault.jpg",
-      tags: [
-        "Spring Framework",
-        "Micorservice Arcticture",
-        "Design Patterns",
-        "Apache Kafka",
-        "Apache Camel",
-      ],
-    github: "https://github.com/HimanshuSingour/Hotel-Management-Microservice-SpringBoot",
-
+    title: "learn-aws-fundamentals",
+    date: "Updated on Jan 12",
+    description: "A repository for learning AWS cloud fundamentals and building cloud applications.",
+    image: "https://d2908q01vomqb2.cloudfront.net/9109c85a45b703f87f1413a405549a2cea9ab556/2021/05/14/AWSCloudPractitionerEssentialsBlog_300x150.png", 
+    tags: ["AWS", "Cloud Computing", "Infrastructure as a Service (IaaS)"],
+    category: "Cloud",
+    github: "https://github.com/DarshanSuresh/learn-aws-fundamentals",
   },
   {
     id: 6,
-    title: "Google Pay Application",
-    date: "Jun 2021",
-    description:
-      "A versatile payment application inspired by the original. With features like money transfer, bill splitting, shopping, rewards, and intuitive financial management, our app mirrors the convenience and functionality of Google Pay, ensuring seamless transactions for users",
-    image:
-      "https://i.pcmag.com/imagery/reviews/07y0CcC1S2BwbOvOlSKXTtT-9.fit_lim.size_840x473.v1569478436.png",
-      tags: [
-        "Apache Camel",
-        "Spring Framework",
-        "Micorservice",
-        "Design Patterns",
-        "Apache Kafka",
- 
-      ],
-    github: "https://github.com/HimanshuSingour/Google-Pay-Payment-Application-",
-
-  }
-  
-  
-
+    title: "Geo-Crime-Mapping",
+    date: "Updated on Feb 3",
+    description: "Creates geo-mapped visualizations of crime data using geospatial libraries.",
+    image: "https://www.researchgate.net/publication/351022846/figure/fig7/AS:1014983290781697@1619002282485/GIS-and-Crime-Mapping.jpg", 
+    tags: ["Geospatial Data", "Crime Mapping", "Python", "Data Visualization"],
+    category: "Data Science",
+    github: "https://github.com/DarshanSuresh/Geo-Crime-Mapping",
+  },
+  {
+    id: 7,
+    title: "amplify-angular-template",
+    date: "Updated on Jan 10",
+    description: "A starter template for building cloud-based applications using AWS Amplify and Angular.",
+    image: "https://i.imgur.com/GW1Nk5B.png", 
+    tags: ["AWS", "Angular", "Cloud Development", "Web App"],
+    category: "Cloud",
+    github: "https://github.com/DarshanSuresh/amplify-angular-template",
+  },
+  {
+    id: 8,
+    title: "amplify-next-template",
+    date: "Updated on Jan 8",
+    description: "A starter template for building cloud-based applications using AWS Amplify and Next.js.",
+    image: "https://www.axelerant.com/hubfs/How%20To%20Deploy%20Next.js%20Apps%20With%20Amplify.png", 
+    tags: ["AWS", "Next.js", "Cloud Development", "Web App"],
+    category: "Cloud",
+    github: "https://github.com/DarshanSuresh/amplify-next-template",
+  },
 ];
+
 
 export const TimeLineData = [
   { year: 2017, text: "Started my journey" },
