@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Himanshu Singour</Logo>
+        <Logo>Darshan Suresh</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Himanshu Singour. All rights reserved.
+          &copy; 2024 Darshan Suresh. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

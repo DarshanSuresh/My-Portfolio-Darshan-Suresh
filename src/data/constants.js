@@ -6,12 +6,12 @@ export const Bio = {
     "Devops Engineer",
   ],
   description:
-    "I’m a Java full-stack developer who can build industrial-level applications solo (with a little patience). I juggle backend, frontend, databases, system design, and DevOps like a pro. With 120K+ Instagram followers, I share DSA and coding tips, and as a TopMate mentor, I’ve helped 300+ people land jobs. Don’t underestimate me!",
+    "I’m a Cloud Engineer, Architect, and DevOps who designs, builds, and automates cloud infrastructures that scale effortlessly. From crafting robust multi-cloud architectures to streamlining CI/CD pipelines, I ensure seamless deployment and top-tier performance. Whether it’s managing resources on AWS, Azure, or GCP, or implementing best practices in automation and security, I bridge the gap between development and operations to keep everything running like clockwork.",
   github: "https://github.com/DarshanSuresh",
-  resume: "https://drive.google.com/file/d/1mAgpS4vJNDjbslKRxOkx-CL4KWo9emIj/view?usp=share_link",
+  resume: "",
   linkedin: "https://www.linkedin.com/in/darshansuresh/",
-  twitter: "https://twitter.com/Himmu_S03",
-  insta: "https://www.instagram.com/endless_success___/",
+  twitter: "https://x.com/im__darsh",
+  insta: "https://www.instagram.com/darshan_suresh_/",
   topmate: "https://topmate.io/darshansuresh",
 };
 
